@@ -12,9 +12,8 @@
         <h1>Musiques</h1>
         <nav class="menu">
             <li><a href="acceuil.php">Accueil</a></li>
-            <li><a href="insertion.php">Insertion</a></li>
             <li><a href="inscription.php">S'inscrire</a></li>
-            <li><a href="connection.php">Connection</a></li>
+            <li><a href="connection.php">Se connecter</a></li>
         </nav>
     </header>
     <div class="main-acceuil">
